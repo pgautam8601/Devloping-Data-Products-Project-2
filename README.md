@@ -4,3 +4,5 @@ Create a web page presentation using R Markdown that features a plot created wit
 
 
 Map using leaflet: Developing Data Products Programming Assignment 2(R Markdown and Leaflet)
+
+map.html
